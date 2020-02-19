@@ -3,6 +3,7 @@ name: ecr-credential-helper
 
 templates: {}
 
-packages: []
+packages:
+- ecr-credential-helper
 
 properties: {}
