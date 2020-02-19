@@ -5,4 +5,3 @@ set -e
 mkdir -p ${BOSH_INSTALL_TARGET}/bin
 
 install ecr-credential-helper/docker-credential-ecr-login ${BOSH_INSTALL_TARGET}/bin
-
