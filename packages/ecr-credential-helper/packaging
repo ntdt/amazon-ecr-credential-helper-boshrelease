@@ -1,0 +1,4 @@
+#!/bin/bash -eu
+
+install ecr-credential-helper/docker-credential-ecr-login ${BOSH_INSTALL_TARGET}/bin
+

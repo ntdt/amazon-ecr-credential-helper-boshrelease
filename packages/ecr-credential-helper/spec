@@ -1,0 +1,7 @@
+---
+name: ecr-credential-helper
+
+dependencies: []
+
+files:
+- ecr-credential-helper/docker-credential-ecr-login
